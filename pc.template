@@ -13,6 +13,7 @@ alsa-oss
 alsa-utils
 aspell
 aspell-en
+atk
 attr
 autoconf
 automake
@@ -22,6 +23,7 @@ bin
 binutils
 boost
 bzip2
+cairo
 cdrtools
 chmlib
 cifs-utils
@@ -32,6 +34,7 @@ cpio
 cpufrequtils
 curl
 cxxlibs
+cyrus-sasl
 damageproto
 db48
 dbus
@@ -121,6 +124,8 @@ iputils
 iso-codes
 iw
 jasper
+kernel-headers
+kernel-source
 kbd
 kbproto
 kmod
@@ -367,7 +372,6 @@ x11-skel
 xauth
 xcb-proto
 xcb-util
-xcompmgr
 xdg-utils
 xdpyinfo
 xextproto
